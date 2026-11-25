@@ -13,22 +13,24 @@ Each revival branch holds the original repository URL and pinned commit, the ori
 **Verdict:** [PASS](catalog/verdict-pass.md) · [PARTIAL](catalog/verdict-partial.md) · [FAIL](catalog/verdict-fail.md) · [Other](catalog/verdict-other.md)  
 **Repository:** [By owner and name](catalog/repositories.md) · [By date](catalog/all.md)
 
-## Latest revivals (0 in all)
+## Latest revivals (1 in all)
 
-_No published revivals yet._
+| Date | Repository | Language | Type | Verdict | Request | License | By | Result |
+|---|---|---|---|---|---|---|---|---|
+| 2026-11-25 | [gcoppeler/xmldictify](https://github.com/gcoppeler/xmldictify) | Python | Intent-First Reforge | **BLOCKED** | Add a get\(doc, path, default=None\) function to xmldictify for reading values out of a parsed document. The path is a st… | MIT | [@friendly-neighborhood-coding-man](https://github.com/friendly-neighborhood-coding-man) | [branch](https://github.com/friendly-neighborhood-coding-man/repo-seance-revival-archive/tree/revival/python/intent-first/gcoppeler-xmldictify-933957cd2e7f) |
 
 ## Browse
 
 - [JavaScript](catalog/javascript.md): 0
 - [TypeScript](catalog/typescript.md): 0
-- [Python](catalog/python.md): 0
+- [Python](catalog/python.md): 1
 - [Restore](catalog/restore.md): 0
-- [Intent-First Reforge](catalog/intent-first.md): 0
+- [Intent-First Reforge](catalog/intent-first.md): 1
 - [Standard Reforge](catalog/standard-reforge.md): 0
 - [PASS](catalog/verdict-pass.md): 0
 - [PARTIAL](catalog/verdict-partial.md): 0
 - [FAIL](catalog/verdict-fail.md): 0
-- [Other verdicts](catalog/verdict-other.md): 0
+- [Other verdicts](catalog/verdict-other.md): 1
 
 ## Machine-readable index
 

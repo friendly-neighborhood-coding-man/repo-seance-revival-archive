@@ -1,6 +1,31 @@
 {
   "schemaVersion": 1,
   "archive": "friendly-neighborhood-coding-man/repo-seance-revival-archive",
-  "updatedAt": "2026-11-25T11:43:07.196Z",
-  "entries": []
+  "updatedAt": "2026-11-25T13:37:37.989Z",
+  "entries": [
+    {
+      "publicId": "933957cd2e7f",
+      "branch": "revival/python/intent-first/gcoppeler-xmldictify-933957cd2e7f",
+      "branchUrl": "https://github.com/friendly-neighborhood-coding-man/repo-seance-revival-archive/tree/revival/python/intent-first/gcoppeler-xmldictify-933957cd2e7f",
+      "language": "python",
+      "type": "intent-first",
+      "verdict": "BLOCKED",
+      "verdictSummary": "The goal needs \"node\" and the repository is \"python\". The sandbox runs the repository's own language toolchain (JavaScript, TypeScript or Python) only, so no change here could be demonstrated. Nothing was changed.",
+      "request": "Add a get(doc, path, default=None) function to xmldictify for reading values out of a parsed document. The path is a string of keys separated by '/', for example get(doc, 'response/value/@a') returns the a attribute of value, and 'response/value/#text' its text. A path segment that is a whole number",
+      "repository": {
+        "owner": "gcoppeler",
+        "name": "xmldictify",
+        "url": "https://github.com/gcoppeler/xmldictify",
+        "commit": "0315364a4e46fca7c3edf18d391bdb44b1e1c25a"
+      },
+      "license": "MIT",
+      "revivedAt": "2026-11-25T13:37:31.893Z",
+      "attribution": {
+        "kind": "named",
+        "github": "friendly-neighborhood-coding-man",
+        "url": "https://github.com/friendly-neighborhood-coding-man"
+      },
+      "engine": "caffeine-edition"
+    }
+  ]
 }
