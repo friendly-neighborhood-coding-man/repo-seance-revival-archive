@@ -8,8 +8,6 @@
 
 Grouped by original owner and repository name; each repository's revivals newest first.
 
-1 revival(s).
+0 revival(s).
 
-| Date | Repository | Language | Type | Verdict | Request | License | By | Result |
-|---|---|---|---|---|---|---|---|---|
-| 2026-11-25 | [gcoppeler/xmldictify](https://github.com/gcoppeler/xmldictify) | Python | Intent-First Reforge | **BLOCKED** | Add a get\(doc, path, default=None\) function to xmldictify for reading values out of a parsed document. The path is a st… | MIT | [@friendly-neighborhood-coding-man](https://github.com/friendly-neighborhood-coding-man) | [branch](https://github.com/friendly-neighborhood-coding-man/repo-seance-revival-archive/tree/revival/python/intent-first/gcoppeler-xmldictify-933957cd2e7f) |
+_No published revivals yet._

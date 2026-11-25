@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "archive": "friendly-neighborhood-coding-man/repo-seance-revival-archive",
-  "updatedAt": "2026-11-25T13:37:37.989Z",
+  "updatedAt": "2026-11-25T13:53:41.344Z",
   "entries": [
     {
       "publicId": "933957cd2e7f",
@@ -25,7 +25,11 @@
         "github": "friendly-neighborhood-coding-man",
         "url": "https://github.com/friendly-neighborhood-coding-man"
       },
-      "engine": "caffeine-edition"
+      "engine": "caffeine-edition",
+      "withdrawn": {
+        "at": "2026-11-25T13:53:41.344Z",
+        "reason": "The canister could not reach Caffeine Inference, so this run holds no revival result."
+      }
     }
   ]
 }
